@@ -1,6 +1,7 @@
+![I am a Web Developer.](https://media.licdn.com/dms/image/D5616AQG5DKc0u5XXNw/profile-displaybackgroundimage-shrink_350_1400/0/1714831317476?e=1725494400&v=beta&t=iLv7-my1i-jh7jVKeJtU4_2cY-2hjlS1Txr80-1umN8)
 ### Hi there 👋, I am Akash
 #### I am a Web Developer.
-![I am a Web Developer.](https://media.licdn.com/dms/image/D5616AQG5DKc0u5XXNw/profile-displaybackgroundimage-shrink_350_1400/0/1714831317476?e=1725494400&v=beta&t=iLv7-my1i-jh7jVKeJtU4_2cY-2hjlS1Txr80-1umN8)
+
 
 Hello! I'm a Web developer, skilled in MongoDB, Express.js, React.js, and Node.js. I enjoy building user-friendly web applications and solving problems creatively. I'm eager to collaborate on exciting projects and grow as a developer. Let's connect and bring ideas to life!
 
